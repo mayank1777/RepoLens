@@ -1,0 +1,61 @@
+Category,Repository
+Operating Systems,torvalds/linux
+Operating Systems,freebsd/freebsd-src
+Operating Systems,openbsd/src
+Operating Systems,reactos/reactos
+Operating Systems,archlinux/svntogit-packages
+Operating Systems,haiku/haiku
+Web Frameworks,rails/rails
+Web Frameworks,django/django
+Web Frameworks,expressjs/express
+Web Frameworks,angular/angular
+Web Frameworks,facebook/react
+Web Frameworks,pallets/flask
+Machine Learning,tensorflow/tensorflow
+Machine Learning,scikit-learn/scikit-learn
+Machine Learning,pytorch/pytorch
+Machine Learning,keras-team/keras
+Machine Learning,fastai/fastai
+Machine Learning,microsoft/CNTK
+Programming Languages,python/cpython
+Programming Languages,rust-lang/rust
+Programming Languages,golang/go
+Programming Languages,JuliaLang/julia
+Programming Languages,apple/swift
+Programming Languages,elixir-lang/elixir
+Databases,mongodb/mongo
+Databases,redis/redis
+Databases,postgres/postgres
+Databases,mysql/mysql-server
+Databases,apache/cassandra
+Databases,neo4j/neo4j
+DevOps Tools,docker/docker-ce
+DevOps Tools,kubernetes/kubernetes
+DevOps Tools,ansible/ansible
+DevOps Tools,hashicorp/terraform
+DevOps Tools,jenkinsci/jenkins
+DevOps Tools,puppetlabs/puppet
+Game Engines,Unity-Technologies/UnityCsReference
+Game Engines,godotengine/godot
+Game Engines,MonoGame/MonoGame
+Game Engines,photonstorm/phaser
+Game Engines,BabylonJS/Babylon.js
+Game Engines,cocos2d/cocos2d-x
+Text Editors,microsoft/vscode
+Text Editors,atom/atom
+Text Editors,sublimehq/sublime_text
+Text Editors,vim/vim
+Text Editors,emacs-mirror/emacs
+Text Editors,adobe/brackets
+Cryptocurrencies,bitcoin/bitcoin
+Cryptocurrencies,ethereum/go-ethereum
+Cryptocurrencies,ripple/rippled
+Cryptocurrencies,litecoin-project/litecoin
+Cryptocurrencies,input-output-hk/cardano-node
+Cryptocurrencies,zcash/zcash
+Artificial Intelligence,openai/gym
+Artificial Intelligence,deepmind/lab
+Artificial Intelligence,Latitude-Archives/AIDungeon
+Artificial Intelligence,CorentinJ/Real-Time-Voice-Cloning
+Artificial Intelligence,johnolafenwa/DeepStack
+Artificial Intelligence,apache/mahout

@@ -1,0 +1,149 @@
+1C Enterprise
+AIDL
+AMPL
+ANTLR
+Ada
+AppleScript
+Assembly
+Awk
+Batchfile
+Bikeshed
+BitBake
+BrighterScript
+C
+C#
+C++
+CMake
+CSS
+Cap'n Proto
+Clojure
+CoffeeScript
+Common Lisp
+Csound Document
+Cuda
+Cython
+D
+DIGITAL Command Language
+DTrace
+Dart
+Dockerfile
+EJS
+Elixir
+Emacs Lisp
+EmberScript
+Erlang
+F#
+Fluent
+Forth
+Fortran
+GAP
+GCC Machine Description
+GDB
+GDScript
+GLSL
+Gherkin
+Gnuplot
+Go
+Groovy
+HCL
+HLSL
+HTML
+Hack
+Handlebars
+Haskell
+IDL
+Inno Setup
+JSONiq
+Java
+JavaScript
+Jinja
+Julia
+Jupyter Notebook
+KRL
+Kotlin
+LLVM
+Less
+Lex
+Logos
+Lua
+M4
+MATLAB
+MDX
+MLIR
+Makefile
+Mathematica
+Mercury
+Meson
+Metal
+Modula-2
+Module Management System
+NASL
+NSIS
+NewLisp
+Nix
+OCaml
+Objective-C
+Objective-C++
+PHP
+PLSQL
+PLpgSQL
+POV-Ray SDL
+Pascal
+Pawn
+Perl
+PostScript
+PowerShell
+Procfile
+Prolog
+Pug
+Puppet
+PureBasic
+Python
+QMake
+R
+RPC
+Raku
+Rebol
+RenderScript
+Rez
+Rich Text Format
+Roff
+Ruby
+Rust
+SCSS
+SRecode Template
+SWIG
+Sage
+Scala
+Scheme
+Scilab
+ShaderLab
+Shell
+Slash
+SmPL
+Smalltalk
+Smarty
+Solidity
+SourcePawn
+Standard ML
+Starlark
+Swift
+SystemVerilog
+TLA
+Tcl
+TeX
+Terra
+Turing
+TypeScript
+UnrealScript
+VBScript
+Vim Script
+Vim Snippet
+Visual Basic .NET
+Visual Basic 6.0
+WebAssembly
+XS
+XSLT
+Yacc
+jq
+sed
